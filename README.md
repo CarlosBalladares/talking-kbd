@@ -4,9 +4,8 @@
 This is a simple app that spells the letters you type on your keyboard.
 It also plays a weird sound when you press the space bar.
 
-This is based on this tutorial
+This is based on this tutorial:
 https://medium.freecodecamp.org/how-to-build-your-first-app-with-electron-41ebdb796930
-Read it.
 
 ![Screenshot](screenshot.png)
 
